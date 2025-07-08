@@ -211,7 +211,16 @@ API接口源码(修改后的meting-api)：[![GitHub](https://img.shields.io/badg
 
 ### 海龟汤插件
 
-一个海龟汤插件，请修改文件开头的`__init__`函数的API以接入AI平台，目前测试不限制模型。
+一个海龟汤插件:
+
+#### 部署
+
+1. 请修改文件开头的`__init__`函数的API以接入AI平台，目前测试不限制模型。
+2. 请修改文件开头的`__init__`函数的数据库连接语句以接入Mysql数据库。
+2. 请修改`register`中的字体文件，以方便生成图片；
+
+
+#### 使用
 
 发送`#seat help`获得帮助
 
@@ -235,3 +244,13 @@ API接口源码(修改后的meting-api)：[![GitHub](https://img.shields.io/badg
 --- 胜利条件 ---
 🏆 猜中所有关键点 或 完整描述故事真相
 ```
+
+#### 图片展示
+
+1. 开始游戏
+
+![开始游戏](https://cmd.dayi.ink/uploads/upload_81ae39c8282fd05591d015f77166977e.png)
+
+2. 结束游戏
+
+![结束游戏](https://cmd.dayi.ink/uploads/upload_e62c40276b3ffe672e8dc7ab3293d893.png)
