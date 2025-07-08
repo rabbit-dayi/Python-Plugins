@@ -244,13 +244,3 @@ API接口源码(修改后的meting-api)：[![GitHub](https://img.shields.io/badg
 --- 胜利条件 ---
 🏆 猜中所有关键点 或 完整描述故事真相
 ```
-
-#### 图片展示
-
-1. 开始游戏
-
-![开始游戏](https://cmd.dayi.ink/uploads/upload_81ae39c8282fd05591d015f77166977e.png)
-
-2. 结束游戏
-
-![结束游戏](https://cmd.dayi.ink/uploads/upload_e62c40276b3ffe672e8dc7ab3293d893.png)
